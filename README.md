@@ -1,6 +1,7 @@
 # Pre-Work-iOS101
 Pre-work submission codePath
 
+
 My favorite applications: 
     1. Pintrest
           i. You can click on an image and find very similar pictures to it
@@ -29,5 +30,10 @@ My favorite applications:
 
 
 An app I'd like to build:
-I would improve my school's blackboard app. It is really inconvenient as of right now. First off, I'd make it look more fit to be a moible app, rather than a website on a desktop. It is very clustered. Some features I would add are: viewing your schedule, grades, assingments due, more easily. As well as, being able to contact your professors. I would change the layout of the app too. The fonts, and colors are not as pleasing to look at, a dark theme and a light theme option would be very nice! 
+I would improve my school's blackboard app. It is really inconvenient as of right now. First off,
+I'd make it look more fit to be a moible app, rather than a website on a desktop. It is very
+clustered. Some features I would add are: viewing your schedule, grades, assingments due, more
+easily. As well as, being able to contact your professors. I would change the layout of the app
+too. The fonts, and colors are not as pleasing to look at, a dark theme and a light theme option
+would be very nice! 
 
