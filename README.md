@@ -1,6 +1,7 @@
 # Pre-Work-iOS101
 Pre-work submission codePath
 
+App Brainstorming
 
 My favorite applications: 
     1. Pintrest
